@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_POO_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FCD7A5-3A6A-471C-9489-975499519567}|Aula_04_POO_Heranca\\Aula_04_POO_Heranca.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_04_poo_heranca\\aula_04_poo_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FCD7A5-3A6A-471C-9489-975499519567}|Aula_04_POO_Heranca\\Aula_04_POO_Heranca.csproj|solutionrelative:aula_04_poo_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_POO_Heranca\\Aula_04_POO_Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_04_POO_Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_POO_Heranca\\Aula_04_POO_Heranca\\Program.cs",
+              "RelativeToolTip": "Aula_04_POO_Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:05:06.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796D4A37-EAFC-4FFD-9838-EB9D69D41F18}|Aula_04_Polimorfismo\\Aula_04_Polimorfismo.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_04_polimorfismo\\aula_04_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796D4A37-EAFC-4FFD-9838-EB9D69D41F18}|Aula_04_Polimorfismo\\Aula_04_Polimorfismo.csproj|solutionrelative:aula_04_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_Polimorfismo\\Aula_04_Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_04_Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04_Polimorfismo\\Aula_04_Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Aula_04_Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:10:18.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
