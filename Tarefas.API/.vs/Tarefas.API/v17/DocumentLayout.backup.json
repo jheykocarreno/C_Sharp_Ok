@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\",
+  "WorkspaceRootPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\endpoints\\tarefasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\endpoints\\tarefasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\tarefas.api\\tarefas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\tarefas.api\\tarefas.api\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\context\\tarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\tarefas.api\\tarefas.api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\tarefas.api\\tarefas.api\\context\\tarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\context\\tarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\fic\\desktop\\jheyko\\tarefas.api\\tarefas.api\\endpoints\\categoriasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\endpoints\\categoriasendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\tarefas.api\\tarefas.api\\migrations\\20250503154334_tarefamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF904D4-3575-4D48-AB86-57A702F4485F}|Tarefas.API\\Tarefas.API.csproj|solutionrelative:tarefas.api\\migrations\\20250503154334_tarefamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TarefasEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
-              "RelativeDocumentMoniker": "Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
-              "RelativeToolTip": "Tarefas.API\\Endpoints\\TarefasEndpoints.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwDEAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Program.cs",
+              "RelativeDocumentMoniker": "Tarefas.API\\Program.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Program.cs",
+              "RelativeToolTip": "Tarefas.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T19:54:18.313Z",
+              "WhenOpened": "2025-05-04T05:36:26.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Model\\Tarefa.cs",
-              "RelativeDocumentMoniker": "Tarefas.API\\Model\\Tarefa.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Model\\Tarefa.cs",
-              "RelativeToolTip": "Tarefas.API\\Model\\Tarefa.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:43:18.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriasEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
-              "RelativeDocumentMoniker": "Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
-              "RelativeToolTip": "Tarefas.API\\Endpoints\\CategoriasEndpoints.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T19:39:34.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TarefasDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Context\\TarefasDbContext.cs",
-              "RelativeDocumentMoniker": "Tarefas.API\\Context\\TarefasDbContext.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Context\\TarefasDbContext.cs",
-              "RelativeToolTip": "Tarefas.API\\Context\\TarefasDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:45:17.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Model\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Model\\Categoria.cs",
               "RelativeDocumentMoniker": "Tarefas.API\\Model\\Categoria.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Model\\Categoria.cs",
               "RelativeToolTip": "Tarefas.API\\Model\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:32:42.223Z",
+              "WhenOpened": "2025-05-04T05:36:18.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Program.cs",
-              "RelativeDocumentMoniker": "Tarefas.API\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Tarefas.API\\Tarefas.API\\Program.cs",
-              "RelativeToolTip": "Tarefas.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Tarefas.API\\Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Model\\Tarefa.cs",
+              "RelativeToolTip": "Tarefas.API\\Model\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:00:14.702Z",
+              "WhenOpened": "2025-05-04T05:36:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Context\\TarefasDbContext.cs",
+              "RelativeDocumentMoniker": "Tarefas.API\\Context\\TarefasDbContext.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Context\\TarefasDbContext.cs",
+              "RelativeToolTip": "Tarefas.API\\Context\\TarefasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:35:41.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250503154334_TarefaMigration.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Migrations\\20250503154334_TarefaMigration.cs",
+              "RelativeDocumentMoniker": "Tarefas.API\\Migrations\\20250503154334_TarefaMigration.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\Tarefas.API\\Tarefas.API\\Migrations\\20250503154334_TarefaMigration.cs",
+              "RelativeToolTip": "Tarefas.API\\Migrations\\20250503154334_TarefaMigration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:35:13.686Z",
               "EditorCaption": ""
             }
           ]

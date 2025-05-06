@@ -1,12 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\ConsumoAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\consumoapi\\consumoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\consumoapi\\consumoapi\\restcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\restcountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\consumoapi\\consumoapi\\pais2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\pais2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\consumoapi\\consumoapi\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|c:\\users\\jheyk\\onedrive\\documentos\\c_sharp_ok\\consumoapi\\consumoapi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C827BC-2486-4A24-B3BD-33BB0DE2184B}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pais2.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Pais2.cs",
+              "RelativeDocumentMoniker": "ConsumoAPI\\Pais2.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Pais2.cs",
+              "RelativeToolTip": "ConsumoAPI\\Pais2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:07:43.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Pais.cs",
+              "RelativeDocumentMoniker": "ConsumoAPI\\Pais.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Pais.cs",
+              "RelativeToolTip": "ConsumoAPI\\Pais.cs",
+              "ViewState": "AgIAAAwJAAAAAAAAAAA8wBoJAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:58:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsumoAPI\\Menu.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Menu.cs",
+              "RelativeToolTip": "ConsumoAPI\\Menu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:49:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\Program.cs",
+              "RelativeToolTip": "ConsumoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:48:40.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestCountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\RestCountriesService.cs",
+              "RelativeDocumentMoniker": "ConsumoAPI\\RestCountriesService.cs",
+              "ToolTip": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C_Sharp_Ok\\ConsumoAPI\\ConsumoAPI\\RestCountriesService.cs",
+              "RelativeToolTip": "ConsumoAPI\\RestCountriesService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:43:16.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

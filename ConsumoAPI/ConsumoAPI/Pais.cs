@@ -486,7 +486,7 @@ public class Currencies
     public VES VES { get; set; }
     public DZD DZD { get; set; }
     public PKR PKR { get; set; }
-//    public MKD MKD { get; set; }
+    //public MKD MKD { get; set; }
     public BND BND { get; set; }
     public SGD SGD { get; set; }
     public UGX UGX { get; set; }
@@ -524,7 +524,7 @@ public class Currencies
     public SRD SRD { get; set; }
     public ALL ALL { get; set; }
     public THB THB { get; set; }
-//    public RON RON { get; set; }
+    //public RON RON { get; set; }
     public GIP GIP { get; set; }
     public AOA AOA { get; set; }
     public BSD BSD { get; set; }
@@ -690,7 +690,7 @@ public class FKP
     public string name { get; set; }
 }
 
-public class Flags
+public class Flags2
 {
     public string png { get; set; }
     public string svg { get; set; }
@@ -1999,7 +1999,7 @@ public class RON2
     public string name { get; set; }
 }
 
-public class Root
+public class Pais
 {
     public Name name { get; set; }
     public List<string> tld { get; set; }
@@ -2326,7 +2326,7 @@ public class Tpi
     public string common { get; set; }
 }
 
-public class Translations
+public class Translations2
 {
     public Ara ara { get; set; }
     public Bre bre { get; set; }
@@ -2577,4 +2577,3 @@ public class ZWL
     public string symbol { get; set; }
     public string name { get; set; }
 }
-
